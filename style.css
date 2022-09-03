@@ -1,0 +1,81 @@
+main{
+    display: flex;
+    width: 100vw;
+    height: 100vh;
+    justify-content: center;
+    align-items: center;
+}
+
+.container {
+    display: flex;
+    flex-direction: column;
+    background: rgb(185, 185, 181);
+    color: rgb(0, 0, 0);
+    width: 330px;
+    height: 600px;
+    align-items: center;
+    justify-content: space-evenly;
+    border-radius: 30px;
+    box-shadow: 0 0 10px black;
+}
+
+.title {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    height: 30px;
+    font: bold 2.0rem serif;
+    border-bottom: solid 2px rgb(245, 245, 245);
+    margin-bottom: 20px;
+}
+
+.input {
+    display: flex;
+    width: 250px;
+    height: 30px;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.input input {
+    width: 150px;
+    height: 40px;
+    border-radius: 5px;
+    border: none;
+    outline: 0;
+    font: bold 1.1rem serif;
+    text-align: center;
+    box-shadow: 0 0 10px rgb(0, 0, 0);
+}
+
+.input label {
+    font: bold 1.5rem serif;
+}
+
+button {
+    width: 180px;
+    height: 40px;
+    font: bold 1.2rem serif;
+    background: rgb(228, 226, 226);
+    color: rgb(0, 0, 0);
+    outline: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.result {
+    display: flex;
+    margin-top: 20px;
+    align-items: center;
+    width: 250px;
+    height: 150px;
+    border-radius: 5px;
+    font: italic 1.2rem serif;
+    box-shadow: 0 0 10px rgb(253, 253, 253);
+    background: #f84848;
+    color: rgb(255, 255, 255);
+    padding: 20px;
+    box-sizing: border-box;
+    user-select: none;
+}
