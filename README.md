@@ -2,9 +2,7 @@
 
 > Status: Finalizado... ✔
 
-### Este é um website montado pensando no aperfeiçoamento do meu html, css e javascript.
-
-Projeto simples para praticar o meu JavaScript. 🚀 
+### Projeto simples para praticar o meu JavaScript. 🚀 
 
 ## Tecnologias utilizadas:
 
