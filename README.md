@@ -1,6 +1,6 @@
 <h1>Calculadora de IMC</h1>
 
-img src="https://uploaddeimagens.com.br/imagens/dJpfGrY">
+<img src="https://uploaddeimagens.com.br/imagens/dJpfGrY">
 > Status: Finalizado... ✔
 
 ### Este é um website montado pensando no aperfeiçoamento do meu html, css e javascript.
